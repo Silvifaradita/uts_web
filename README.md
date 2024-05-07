@@ -46,9 +46,3 @@ Webinar merupakan aplikasi untuk mengelola manajemen event. Salah satu tugas kel
 > Semoga bermanfaat....
 ---
 
-### Ikuti saya dengan cara 
-**Follow akun github :**
-https://github.com/fajaregafirmansyah
-
-**Follow akun instagram :**
-https://www.instagram.com/fajaregaf/
